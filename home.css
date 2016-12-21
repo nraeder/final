@@ -14,6 +14,9 @@ div.sidebar {
 }
 
 div.header {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
 	float: right;
 	width: 60%;
 }
