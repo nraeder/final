@@ -84,14 +84,12 @@ nav ul li {
 	transition: all 0.3s linear;
 }
 ul li a {
-	color: #FFFFFF;
 	text-decoration: none;
 }
 ul li:hover a {
 	color: darkgray;
 }
 .hero_header {
-	color: #FFFFFF;
 	text-align: center;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -99,7 +97,7 @@ ul li:hover a {
 	margin-left: 0px;
 	letter-spacing: 4px;
 }
-/* Hero Section */
+
 .hero {
 	position: absolute;
 	background-size: 100%;
@@ -118,7 +116,7 @@ ul li:hover a {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
-/* About Section */
+
 .text_column {
 	width: 70%;
 	text-align: justify;
@@ -135,7 +133,6 @@ ul li:hover a {
 	padding-top: 25px;
 	border-radius: 25px;
 	display: inline-block;
-	background-color: #FFFFFF;
 	margin-top: 0px;
 }
 
@@ -163,8 +160,6 @@ ul li:hover a {
 	transition: all 0.3s linear;
 }
 .button:hover {
-	background-color: #FEFEFE;
-	color: #C4C4C4;
 	cursor: pointer;
 }
 .copyright {
