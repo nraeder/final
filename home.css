@@ -9,9 +9,9 @@ div.absolute {
 }
 
 div.sidebar {
-	margin-left: 25px;
-	margin-left: 25px;
-	width: 60%;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 594px;
 }
 
 div.header {
