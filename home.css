@@ -39,7 +39,7 @@ body {
 	font-style: normal;
 	font-weight: lighter;
 }
-/* Container */
+
 .container {
 	margin-top: auto;
 	width: 960px;
@@ -48,8 +48,8 @@ body {
 	height: 1000px;
 	background-color: #FFFFFF;
 }
-/* Navigation */
-header {
+
+header, footer {
 	background-color: black;
 	position: fixed;
 	width: 960px;
@@ -292,7 +292,7 @@ nav ul li {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	width: 100%;
-	float: none;
+	float: right;
 	overflow: auto;
 	display: inline-block;
 	background: #52bad5;
