@@ -119,11 +119,11 @@ ul li:hover a {
 }
 
 .text_column {
-	width: 40%;
+	width: 20%;
 	text-align: justify;
 	font-weight: lighter;
 	line-height: 25px;
-	float: none;
+	float: center;
 	padding-left: 20px;
 	padding-right: 10px;
 }
