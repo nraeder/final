@@ -71,7 +71,7 @@ nav {
 }
 header nav ul {
 	list-style: none;
-	float: center;
+	float: right;
 	font-weight: lighter;
 }
 nav ul li {
