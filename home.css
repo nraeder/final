@@ -8,6 +8,21 @@ div.absolute {
 	position: absolute;
 }
 
+div.sidebar {
+	float: left;
+	width: 40%;
+}
+
+div.header {
+	float: right;
+	width: 60%;
+}
+
+div.content {
+	float: right;
+	width: 60%;
+}
+
 body {
 	
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
