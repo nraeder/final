@@ -68,7 +68,11 @@ ul li:hover a {
 .text_column {
 	font-family: -apple-system, BlinkMacSystemFont, serif;
 	background-color: white;
+<<<<<<< HEAD
 	width: 30%;
+=======
+	width: 40%;
+>>>>>>> c19589270d1678dd587671fc500d72e084765322
 	text-align: justify;
 	font-weight: lighter;
 	line-height: 22px;
