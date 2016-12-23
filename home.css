@@ -68,11 +68,11 @@ ul li:hover a {
 .text_column {
 	font-family: -apple-system, BlinkMacSystemFont, serif;
 	background-color: white;
-	width: auto;
+	width: 30%;
 	text-align: justify;
 	font-weight: lighter;
 	line-height: 22px;
-	float: right;
+	float: left;
 	font-size: 14px;
 	padding-left: 15px;
 	padding-right: 15px;
