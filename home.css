@@ -66,6 +66,7 @@ ul li:hover a {
 
 /* About Section */
 .text_column {
+	font-family: -apple-system, BlinkMacSystemFont, serif;
 	background-color: white;
 	width: 30%;
 	text-align: justify;
